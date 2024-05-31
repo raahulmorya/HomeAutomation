@@ -42,12 +42,12 @@ To learn how to connect your development board to Sinric Pro, please take a look
 
 #define WIFI_SSID         "OPTIMUS"    
 #define WIFI_PASS         "qqwweeaaaa"
-#define APP_KEY           "6f5d68a0-e3e4-4c10-af69-0c4464e87c10"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET        "ffdf5981-74d1-4dd5-8fd7-1366e23dcdc4-5cbfaef6-5c24-4a49-ae5b-2c9c6c884dd0"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
+#define APP_KEY           "6f5d68a0-e3e4-4c40-af69-0c4464e87c10"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
+#define APP_SECRET        "ffdf5981-74d1-4dr5-8fd7-1366e23dcdc4-5cbfaef6-5c24-4a49-ae5b-2c9c6c884dd0"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
 
 //Enter the device IDs here
-#define device_ID_1   "66372ab06443b9bfe2b46228"
-#define device_ID_2   "66372cc2fb874c7486cdde73"
+#define device_ID_1   "66372ab064443b9bfe2b46228"
+#define device_ID_2   "66372cc2fb8474c7486cdde73"
 
 // define the GPIO connected with Relays and switches
 #define RelayPin1 5  //D1
