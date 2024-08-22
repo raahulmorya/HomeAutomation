@@ -9,7 +9,7 @@ xxx
 App Key
 xxx
 App Secret
-ffdf5981-74d1-4dd5-8fd7-1366e23dcdc4-5cbfaef6-5c24-4a49-ae5b-2c9c6c884dd0
+xxx
 Try our Zero Code feature to generate code for ESP8266 or ESP32 devices
 To learn how to connect your development board to Sinric Pro, please take a look at the tutorial and examples.
 
